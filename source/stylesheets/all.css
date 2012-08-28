@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#map {
+  display: block;
+  width: 481px;
+  height: 320px;
+  background: #ACBDDD;
+}
+
+a.active, a:hover {
+  color: red;
+}
